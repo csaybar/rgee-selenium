@@ -1,4 +1,3 @@
 # rgee-selenium
-Script para cargar datos por lotes en R y Python
-
+Script to batch upload data in R and Python.
 In progress
